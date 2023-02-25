@@ -1,0 +1,499 @@
+{
+  "urn:uuid:ecd8924d-96e7-4f10-b2ee-a49af6bb5dd3": {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "value": "http://www.w3.org/2004/02/skos/core#ConceptScheme",
+        "type": "uri"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "value": "The T3 Pilot Mapping Predicates SKOS File",
+        "type": "literal",
+        "lang": "en-US"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/description": [
+      {
+        "value": "The SKOS file containing the mapping predicates and their definitions used in the pilot.",
+        "type": "literal",
+        "lang": "en-US"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/creator": [
+      {
+        "value": "T3 Open Competency Network",
+        "type": "literal",
+        "lang": "en-US"
+      }
+    ],
+    "http://purl.org/dc/terms/created": [
+      {
+        "value": "2023-02-25",
+        "type": "literal",
+        "datatype": "http://purl.org/dc/terms/W3CDTF"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#hasTopConcept": [
+      {
+        "value": "urn:uuid:276576b9-46b7-4441-aa88-d3cae6b9ef75",
+        "type": "uri"
+      },
+      {
+        "value": "urn:uuid:a0467516-44c2-4fb8-ba74-3d7c8bbca2d2",
+        "type": "uri"
+      },
+      {
+        "value": "urn:uuid:c525f123-34d8-450b-a04e-2bc34e2c18fa",
+        "type": "uri"
+      },
+      {
+        "value": "urn:uuid:34c36c18-be8f-4e8b-a48e-94c80cc24cb0",
+        "type": "uri"
+      },
+      {
+        "value": "urn:uuid:8f3b6813-115d-488e-b1bc-71be344b5143",
+        "type": "uri"
+      },
+      {
+        "value": "urn:uuid:29b09717-07ee-43a5-9095-dd04f062b5cc",
+        "type": "uri"
+      },
+      {
+        "value": "urn:uuid:ab3bca3d-a477-463b-9bd4-01758b64d5e3",
+        "type": "uri"
+      },
+      {
+        "value": "urn:uuid:3ec59f2c-9f6a-42f1-87e7-782b84b71c70",
+        "type": "uri"
+      },
+      {
+        "value": "urn:uuid:f647291f-0c5a-40eb-8486-13a07cd9219e",
+        "type": "uri"
+      }
+    ]
+  },
+  "urn:uuid:276576b9-46b7-4441-aa88-d3cae6b9ef75": {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "value": "http://www.w3.org/2004/02/skos/core#Concept",
+        "type": "uri"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "value": "urn:uuid:ecd8924d-96e7-4f10-b2ee-a49af6bb5dd3",
+        "type": "uri"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "value": "Identical",
+        "type": "literal",
+        "lang": "en-US"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "value": "The definition is identical in wording and intent.",
+        "type": "literal",
+        "lang": "en-US"
+      }
+    ],
+    "http://metadataregistry.org/uri/RegStatus": [
+      {
+        "value": "http://metadataregistry.org/uri/RegStatus/1002",
+        "type": "uri"
+      }
+    ],
+    "http://purl.org/dc/terms/modified": [
+      {
+        "value": "2023-02-25",
+        "type": "literal",
+        "datatype": "http://purl.org/dc/terms/W3CDTF"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#topConceptOf": [
+      {
+        "value": "urn:uuid:ecd8924d-96e7-4f10-b2ee-a49af6bb5dd3",
+        "type": "uri"
+      }
+    ]
+  },
+  "urn:uuid:a0467516-44c2-4fb8-ba74-3d7c8bbca2d2": {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "value": "http://www.w3.org/2004/02/skos/core#Concept",
+        "type": "uri"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "value": "urn:uuid:ecd8924d-96e7-4f10-b2ee-a49af6bb5dd3",
+        "type": "uri"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "value": "Reworded",
+        "type": "literal",
+        "lang": "en-US"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "value": "The definition is identical in intent but reworded; the properties are equivalent.",
+        "type": "literal",
+        "lang": "en-US"
+      }
+    ],
+    "http://metadataregistry.org/uri/RegStatus": [
+      {
+        "value": "http://metadataregistry.org/uri/RegStatus/1002",
+        "type": "uri"
+      }
+    ],
+    "http://purl.org/dc/terms/modified": [
+      {
+        "value": "2023-02-25",
+        "type": "literal",
+        "datatype": "http://purl.org/dc/terms/W3CDTF"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#topConceptOf": [
+      {
+        "value": "urn:uuid:ecd8924d-96e7-4f10-b2ee-a49af6bb5dd3",
+        "type": "uri"
+      }
+    ]
+  },
+  "urn:uuid:c525f123-34d8-450b-a04e-2bc34e2c18fa": {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "value": "http://www.w3.org/2004/02/skos/core#Concept",
+        "type": "uri"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "value": "urn:uuid:ecd8924d-96e7-4f10-b2ee-a49af6bb5dd3",
+        "type": "uri"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "value": "Inverse",
+        "type": "literal",
+        "lang": "en-US"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "value": "The spine term and the term being mapped are exact inverses of each other.",
+        "type": "literal",
+        "lang": "en-US"
+      }
+    ],
+    "http://metadataregistry.org/uri/RegStatus": [
+      {
+        "value": "http://metadataregistry.org/uri/RegStatus/1002",
+        "type": "uri"
+      }
+    ],
+    "http://purl.org/dc/terms/modified": [
+      {
+        "value": "2023-02-25",
+        "type": "literal",
+        "datatype": "http://purl.org/dc/terms/W3CDTF"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#topConceptOf": [
+      {
+        "value": "urn:uuid:ecd8924d-96e7-4f10-b2ee-a49af6bb5dd3",
+        "type": "uri"
+      }
+    ]
+  },
+  "urn:uuid:34c36c18-be8f-4e8b-a48e-94c80cc24cb0": {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "value": "http://www.w3.org/2004/02/skos/core#Concept",
+        "type": "uri"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "value": "urn:uuid:ecd8924d-96e7-4f10-b2ee-a49af6bb5dd3",
+        "type": "uri"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "value": "Similar",
+        "type": "literal",
+        "lang": "en-US"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "value": "The definition is similar in intent, but with significant wording differences.",
+        "type": "literal",
+        "lang": "en-US"
+      }
+    ],
+    "http://metadataregistry.org/uri/RegStatus": [
+      {
+        "value": "http://metadataregistry.org/uri/RegStatus/1002",
+        "type": "uri"
+      }
+    ],
+    "http://purl.org/dc/terms/modified": [
+      {
+        "value": "2023-02-25",
+        "type": "literal",
+        "datatype": "http://purl.org/dc/terms/W3CDTF"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#topConceptOf": [
+      {
+        "value": "urn:uuid:ecd8924d-96e7-4f10-b2ee-a49af6bb5dd3",
+        "type": "uri"
+      }
+    ]
+  },
+  "urn:uuid:8f3b6813-115d-488e-b1bc-71be344b5143": {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "value": "http://www.w3.org/2004/02/skos/core#Concept",
+        "type": "uri"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "value": "urn:uuid:ecd8924d-96e7-4f10-b2ee-a49af6bb5dd3",
+        "type": "uri"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "value": "Transformed",
+        "type": "literal",
+        "lang": "en-US"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "value": "A simple data transform will yield a value for the spine term; for example, concatenating values from several properties being mapped. Describe the transform in a comment on the alignment.",
+        "type": "literal",
+        "lang": "en-US"
+      }
+    ],
+    "http://metadataregistry.org/uri/RegStatus": [
+      {
+        "value": "http://metadataregistry.org/uri/RegStatus/1002",
+        "type": "uri"
+      }
+    ],
+    "http://purl.org/dc/terms/modified": [
+      {
+        "value": "2023-02-25",
+        "type": "literal",
+        "datatype": "http://purl.org/dc/terms/W3CDTF"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#topConceptOf": [
+      {
+        "value": "urn:uuid:ecd8924d-96e7-4f10-b2ee-a49af6bb5dd3",
+        "type": "uri"
+      }
+    ]
+  },
+  "urn:uuid:29b09717-07ee-43a5-9095-dd04f062b5cc": {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "value": "http://www.w3.org/2004/02/skos/core#Concept",
+        "type": "uri"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "value": "urn:uuid:ecd8924d-96e7-4f10-b2ee-a49af6bb5dd3",
+        "type": "uri"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "value": "Sub-property Of",
+        "type": "literal",
+        "lang": "en-US"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "value": "The term in the spine has a narrower definition, covering a subset of the cases where the term being mapped would be used.",
+        "type": "literal",
+        "lang": "en-US"
+      }
+    ],
+    "http://metadataregistry.org/uri/RegStatus": [
+      {
+        "value": "http://metadataregistry.org/uri/RegStatus/1002",
+        "type": "uri"
+      }
+    ],
+    "http://purl.org/dc/terms/modified": [
+      {
+        "value": "2023-02-25",
+        "type": "literal",
+        "datatype": "http://purl.org/dc/terms/W3CDTF"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#topConceptOf": [
+      {
+        "value": "urn:uuid:ecd8924d-96e7-4f10-b2ee-a49af6bb5dd3",
+        "type": "uri"
+      }
+    ]
+  },
+  "urn:uuid:ab3bca3d-a477-463b-9bd4-01758b64d5e3": {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "value": "http://www.w3.org/2004/02/skos/core#Concept",
+        "type": "uri"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "value": "urn:uuid:ecd8924d-96e7-4f10-b2ee-a49af6bb5dd3",
+        "type": "uri"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "value": "Has sub-property",
+        "type": "literal",
+        "lang": "en-US"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "value": "The term in the spine has a broader definition, covering all of the cases where the term being mapped would be used and more.",
+        "type": "literal",
+        "lang": "en-US"
+      }
+    ],
+    "http://metadataregistry.org/uri/RegStatus": [
+      {
+        "value": "http://metadataregistry.org/uri/RegStatus/1002",
+        "type": "uri"
+      }
+    ],
+    "http://purl.org/dc/terms/modified": [
+      {
+        "value": "2023-02-25",
+        "type": "literal",
+        "datatype": "http://purl.org/dc/terms/W3CDTF"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#topConceptOf": [
+      {
+        "value": "urn:uuid:ecd8924d-96e7-4f10-b2ee-a49af6bb5dd3",
+        "type": "uri"
+      }
+    ]
+  },
+  "urn:uuid:3ec59f2c-9f6a-42f1-87e7-782b84b71c70": {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "value": "http://www.w3.org/2004/02/skos/core#Concept",
+        "type": "uri"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "value": "urn:uuid:ecd8924d-96e7-4f10-b2ee-a49af6bb5dd3",
+        "type": "uri"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "value": "Concept",
+        "type": "literal",
+        "lang": "en-US"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "value": "The definition is related only at a conceptual level, no simple transformation can render the data from one to the other.",
+        "type": "literal",
+        "lang": "en-US"
+      }
+    ],
+    "http://metadataregistry.org/uri/RegStatus": [
+      {
+        "value": "http://metadataregistry.org/uri/RegStatus/1002",
+        "type": "uri"
+      }
+    ],
+    "http://purl.org/dc/terms/modified": [
+      {
+        "value": "2023-02-25",
+        "type": "literal",
+        "datatype": "http://purl.org/dc/terms/W3CDTF"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#topConceptOf": [
+      {
+        "value": "urn:uuid:ecd8924d-96e7-4f10-b2ee-a49af6bb5dd3",
+        "type": "uri"
+      }
+    ]
+  },
+  "urn:uuid:f647291f-0c5a-40eb-8486-13a07cd9219e": {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "value": "http://www.w3.org/2004/02/skos/core#Concept",
+        "type": "uri"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "value": "urn:uuid:ecd8924d-96e7-4f10-b2ee-a49af6bb5dd3",
+        "type": "uri"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "value": "No Match",
+        "type": "literal",
+        "lang": "en-US"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "value": "There is no match for the spine term in the schema being mapped.",
+        "type": "literal",
+        "lang": "en-US"
+      }
+    ],
+    "http://metadataregistry.org/uri/RegStatus": [
+      {
+        "value": "http://metadataregistry.org/uri/RegStatus/1002",
+        "type": "uri"
+      }
+    ],
+    "http://purl.org/dc/terms/modified": [
+      {
+        "value": "2023-02-25",
+        "type": "literal",
+        "datatype": "http://purl.org/dc/terms/W3CDTF"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#topConceptOf": [
+      {
+        "value": "urn:uuid:ecd8924d-96e7-4f10-b2ee-a49af6bb5dd3",
+        "type": "uri"
+      }
+    ]
+  }
+}
